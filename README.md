@@ -6,8 +6,11 @@
   * team01_2: [優先排課模型](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%203/team01_2.py)
   * [書面](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%203/team01_書面.pdf)
   
-* **case 4**: 期末報告 —— 
-  * team01: 
+* **case 4**: 期末報告 —— 單機排程問題
+  * team01_4_1_model: [最短平均完工時間(Minimum Average Completion Time, MACT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case_4/team01_4_1_model.py)
+  * team01_4_2_model: [最短平均加權完工時間(Minimum Average Weighted Completion Time, MAWCT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case_4/team01_4_2_model.py)
+  * team01_4_3_model: [最短加工時間派工(Shortest Process Time, SPT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case_4/team01_4_3_model.py)
+  * team01_4_4_model: [最長加工時間派工(Longest Process Time, SPT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case_4/team01_4_4_model.py)
   * [書面]()
 
 
