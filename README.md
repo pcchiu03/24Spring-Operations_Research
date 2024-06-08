@@ -13,6 +13,10 @@
   * team01_4_4_model: [最長加工時間派工(Longest Process Time, LPT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case_4/team01_4_4_model.py)
   * [書面]()
 
+* **maximum flow**: 課堂練習 —— 網路規劃問題
+  * maximum_flow_01: [基礎模型](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/maximum_flow/maximum_flow_01.ipynb)
+  * maximum_flow_01_2: [利用 networkx 繪製網路](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/maximum_flow/maximum_flow_01_2.ipynb)
+
 
 ## Notice
 若 PDF 檔發生 `Unable to render code bloc` 無法閱讀時，請重新刷新網頁。
