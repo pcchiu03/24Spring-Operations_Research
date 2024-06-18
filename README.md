@@ -11,7 +11,7 @@
   * team01_4_2_model: [最短平均加權完工時間(Minimum Average Weighted Completion Time, MAWCT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%204/team01_4_2_model.py)
   * team01_4_3_model: [最短加工時間派工(Shortest Process Time, SPT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%204/team01_4_3_model.py)
   * team01_4_4_model: [最長加工時間派工(Longest Process Time, LPT)](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%204/team01_4_4_model.py)
-  * [書面](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%204/team01_期末書面.pdf)
+  * [書面](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%204/team01_期末書面.pdf)；[簡報](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/case%204/team01_期末簡報.pdf)
 
 * **maximum flow**: 課堂練習 —— 網路規劃問題
   * maximum_flow_01: [基礎模型](https://github.com/pcchiu03/24Spring-Operations_Research/blob/main/maximum_flow/maximum_flow_01.ipynb)
